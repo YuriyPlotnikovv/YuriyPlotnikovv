@@ -12,6 +12,7 @@
 
 ### 👋 Добро пожаловать на мой GitHub! / Welcome to my GitHub!
 
+**Русский:**
 <p>Меня зовут Юрий, и я превращаю чашки кофе в строчки кода 🧙‍♂️</p>
 <p>Я фронтенд-разработчик, увлеченный созданием интуитивных, быстрых и современных пользовательских интерфейсов. Люблю чистый код, продуманную архитектуру и решать сложные задачи.</p>
 
@@ -23,6 +24,7 @@
 
 ---
 
+**English:**
 <p>My name is Yuriy, and I turn cups of coffee into lines of code 🧙‍♂️</p>
 <p>I'm a frontend developer passionate about creating intuitive, fast, and modern user interfaces. I love clean code, well-thought-out architecture, and solving complex problems.</p>
 
@@ -62,11 +64,12 @@
 ### 📜 Любимая цитата / Favorite Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shadow_red&quote=Возможно всё. На невозможное просто требуется больше времени&author=Дэн Браун" alt="Цитата" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shadow_red&quote=Everything is possible. The impossible just takes longer&author=Dan Brown" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=9A0000&symbolColor=cccccc&authorColor=cccccc&quote=Возможно%20всё.%20На%20невозможное%20просто%20требуется%20больше%20времени&author=Дэн%20Браун" alt="Цитата" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=9A0000&symbolColor=cccccc&authorColor=cccccc&quote=Everything%20is%20possible.%20The%20impossible%20just%20takes%20longer&author=Dan%20Brown" alt="Quote" />
 </p>
 
 ---
+
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=yuriyplotnikovv&color=blueviolet&style=flat" alt="Просмотры профиля / Profile views" />
 </p>
