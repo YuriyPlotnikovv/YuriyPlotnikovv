@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yuriyplotnikovv&color=blueviolet&style=flat" alt="Просмотры профиля / Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=yuriyplotnikovv&color=9A0000&style=for-the-badge" alt="Просмотры профиля / Profile views" />
 </p>
