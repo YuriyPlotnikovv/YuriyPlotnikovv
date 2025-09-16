@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://github.com/yuriyplotnikovv">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuriyplotnikovv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика GitHub / GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuriyplotnikovv&show_icons=true&theme=shadow_red&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика GitHub / GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=shadow_red&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuriyplotnikovv&layout=compact&theme=radical&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Activity" alt="Статистика WakaTime / WakaTime Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuriyplotnikovv&layout=compact&theme=shadow_red&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Activity" alt="Статистика WakaTime / WakaTime Stats" />
 </p>
 
 ---
@@ -62,8 +62,8 @@
 ### 📜 Любимая цитата / Favorite Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Возможно всё. На невозможное просто требуется больше времени&author=Дэн Браун" alt="Цитата" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Everything is possible. The impossible just takes longer&author=Dan Brown" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shadow_red&quote=Возможно всё. На невозможное просто требуется больше времени&author=Дэн Браун" alt="Цитата" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=shadow_red&quote=Everything is possible. The impossible just takes longer&author=Dan Brown" alt="Quote" />
 </p>
 
 ---
