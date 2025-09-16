@@ -1,6 +1,6 @@
-<img style="display: block; margin: 0 auto;" src="/assets/heading.png" width="800" alt="Yuriy Plotnikov" />
-<h1 style="text-align: center;">Frontend Developer from Sochi, Russia</h1>
-<p style="display: flex; justify-content: center; column-gap: 20px;">
+<img src="/assets/heading.png" width="1200" alt="Yuriy Plotnikov" />
+<h1 align="center">Frontend Developer from Sochi, Russia</h1>
+<p align="center">
   <a href="https://habr.com/ru/users/YuriyPlotnikovv/" target="_blank"><img src="/assets/icon-habr.svg" width="30" height="30" alt="Habr" /></a>
   <a href="https://t.me/yuriyplotnikovv/" target="_blank"><img src="/assets/icon-telegram.svg" width="30" height="30" alt="Telegram" /></a>
   <a href="https://vk.com/yuriy.plotnikovv/" target="_blank"><img src="/assets/icon-vk.svg" width="30" height="30" alt="Vk" /></a>
@@ -36,7 +36,7 @@
 
 ### 🛠️ Технологии и инструменты / Tech Stack
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,jquery,vue,react,redux,nextjs,ts,php,phpstorm,gulp,figma&perline=5" alt="Технологии и инструменты / Tech Stack"/>
   </a>
@@ -46,14 +46,14 @@
 
 ### 📊 Статистика / Stats
 
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/yuriyplotnikovv">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuriyplotnikovv&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика GitHub / GitHub Stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
   </a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuriyplotnikovv&layout=compact&theme=radical&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Activity" alt="Статистика WakaTime / WakaTime Stats" />
 </p>
 
@@ -61,12 +61,12 @@
 
 ### 📜 Любимая цитата / Favorite Quote
 
-<p style="text-align: center;">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Возможно всё. На невозможное просто требуется больше времени&author=Дэн Браун" alt="Цитата" />
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=Everything is possible. The impossible just takes longer&author=Dan Brown" alt="Quote" />
 </p>
 
 ---
-<p style="text-align: center;">
+<p align="center">
    <img src="https://komarev.com/ghpvc/?username=yuriyplotnikovv&color=blueviolet&style=flat" alt="Просмотры профиля / Profile views" />
 </p>
