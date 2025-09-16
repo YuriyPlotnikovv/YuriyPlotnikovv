@@ -1,4 +1,6 @@
-<img src="/assets/heading.png" width="1200" alt="Yuriy Plotnikov" />
+<a href="https://yuriyplotnikovv.ru/">
+    <img src="/assets/heading.png" width="1200" alt="Yuriy Plotnikov" />
+</a>
 <h1 align="center">Frontend Developer from Sochi, Russia</h1>
 <p align="center">
   <a href="https://habr.com/ru/users/YuriyPlotnikovv/" target="_blank"><img src="/assets/icon-habr.svg" width="30" height="30" alt="Habr" /></a>
