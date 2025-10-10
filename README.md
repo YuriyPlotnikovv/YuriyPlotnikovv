@@ -9,6 +9,11 @@
     <a href="https://instagram.com/yuriy.plotnikovv/" target="_blank"><img src="/assets/icon-instagram.svg" width="30" height="30" alt="Instagram" /></a>
     <a href="mailto:yuriy.plotnikovv@yandex.ru"><img src="/assets/icon-mail.svg" width="40" height="30" alt="Email" /></a>
 </p>
+<p align="center">
+    <a href="https://yoomoney.ru/fundraise/1DA59R1S4LI.251010">
+        <img src="https://img.shields.io/badge/YooMoney-32CD32?style=for-the-badge&label=Support%20the%20author" alt="Support the author"/>
+    </a>
+</p>
 
 ---
 
