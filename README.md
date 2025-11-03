@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-    [![roadmap.sh](https://roadmap.sh/card/wide/682390672755c70244d7b2a1?variant=dark)](https://roadmap.sh)
+    <img height="165" src="https://roadmap.sh/card/wide/682390672755c70244d7b2a1?variant=dark" alt="Статистика Roadmap Frontend / Roadmap Frontend Stats" />
 </p>
 
 ---
