@@ -62,6 +62,10 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=yuriyplotnikovv&layout=compact&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&langs_count=5&custom_title=Weekly%20Coding%20Activity" alt="Статистика WakaTime / WakaTime Stats" />
 </p>
 
+<p align="center">
+    [![roadmap.sh](https://roadmap.sh/card/wide/682390672755c70244d7b2a1?variant=dark)](https://roadmap.sh)
+</p>
+
 ---
 
 ### 📜 Любимая цитата / Favorite Quote
