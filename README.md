@@ -61,7 +61,7 @@
 <p align="center">
     <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
     <img height="215" src="https://roadmap.sh/card/tall/682390672755c70244d7b2a1?variant=dark" alt="Статистика Roadmap.sh / Roadmap.sh Stats" />
-    <img height="215" src="https://leetcode-stats-six.vercel.app/api?username=yuriyplotnikovv&theme=dark" alt="Статистика LeetCode / LeetCode Stats" />
+    <img height="215" src="https://leetcard.jacoblin.cool/yuriyplotnikovv?ext=heatmap&border=0&theme=dark" alt="Статистика LeetCode / LeetCode Stats" />
 </p>
 
 ---
