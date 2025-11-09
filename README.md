@@ -54,8 +54,8 @@
 ### 📊 Статистика / Stats
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuriyplotnikovv&show_icons=true&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика GitHub / GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
+    <img height="215" src="https://github-readme-stats.vercel.app/api?username=yuriyplotnikovv&show_icons=true&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика GitHub / GitHub Stats" />
+    <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyplotnikovv&layout=donut&theme=shadow_red&bg_color=111111&text_color=cccccc&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Самые популярные языки / Top Languages" />
 </p>
 
 <p align="center">
